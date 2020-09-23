@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youngyun\\Documents\\SQATE Fall 2020\\SENG8040 Testing Method\\Lab02\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Youngyun\\Documents\\SQATE Fall 2020\\SENG8040 Testing Method\\Lab02\\SENG8040-Lab2\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Youngyun\\Documents\\SQATE Fall 2020\\SENG8040 Testing Method\\Lab02\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Youngyun\\Documents\\SQATE Fall 2020\\SENG8040 Testing Method\\Lab02\\SENG8040-Lab2\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Youngyun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youngyun\\Documents\\SQATE Fall 2020\\SENG8040 Testing Method\\Lab02\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Youngyun\\Documents\\SQATE Fall 2020\\SENG8040 Testing Method\\Lab02\\SENG8040-Lab2\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
