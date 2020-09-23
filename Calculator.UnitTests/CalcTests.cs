@@ -1,25 +1,23 @@
 using NUnit.Framework;
 using Calculator;
+using System;
 
 namespace Calculator.UnitTests
 {
+    [TestFixture]
     public class CalcTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
-        public void Test1()
+        public void Addition_Input_Same()
         {
             // Arrange
             var calc = new Calc();
-
-            // Act
+            
+            bool result = (calc.Addition(1, 3)) == 4;
 
             // Assert
-            Assert.Pass();
+            Assert.That(result == true);
+
         }
     }
 }

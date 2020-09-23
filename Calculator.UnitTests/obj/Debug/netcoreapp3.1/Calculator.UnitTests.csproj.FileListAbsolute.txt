@@ -1,0 +1,4 @@
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040-Lab2\Calculator.UnitTests\obj\Debug\netcoreapp3.1\Calculator.UnitTests.csprojAssemblyReference.cache
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040-Lab2\Calculator.UnitTests\obj\Debug\netcoreapp3.1\Calculator.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040-Lab2\Calculator.UnitTests\obj\Debug\netcoreapp3.1\Calculator.UnitTests.AssemblyInfo.cs
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040-Lab2\Calculator.UnitTests\obj\Debug\netcoreapp3.1\Calculator.UnitTests.csproj.CoreCompileInputs.cache
