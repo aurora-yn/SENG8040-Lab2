@@ -7,8 +7,8 @@ namespace Calculator
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Simple Calculaor!");
-            
-            Calculator calculator = new Calculator();
+
+            Calc calculator = new Calc();
             calculator.RunCalc();
         }
     }

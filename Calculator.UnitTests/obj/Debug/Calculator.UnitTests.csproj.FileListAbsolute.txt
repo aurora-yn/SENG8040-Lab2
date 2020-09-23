@@ -1,0 +1,14 @@
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\bin\Debug\Calculator.UnitTests.dll
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\bin\Debug\Calculator.UnitTests.pdb
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.csprojAssemblyReference.cache
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.csproj.CopyComplete
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.dll
+C:\Users\Youngyun\Documents\SQATE Fall 2020\SENG8040 Testing Method\Lab02\SENG8040Lab02\Calculator.UnitTests\obj\Debug\Calculator.UnitTests.pdb
