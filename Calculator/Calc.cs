@@ -72,6 +72,12 @@ namespace Calculator
                 case "-":
                     result = Subtraction(x, y);
                     return result;
+                case "*":
+                    result = Multiplication(x, y);
+                    return result;
+                case "/":
+                    result = Division(x, y);
+                    return result;
                 default:
                     break;
             }
